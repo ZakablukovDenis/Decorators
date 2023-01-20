@@ -61,6 +61,3 @@ def test_2():
 
 if __name__ == '__main__':
     test_2()
-    # @logger('test.log')
-    # def summator(a=3, b=3):
-    #     return a + b
